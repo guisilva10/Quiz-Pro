@@ -1,34 +1,34 @@
 const data = [
   {
-    question: "O que é Vanilla JavaScript?",
+    question: "Qual o time representado pela sigla SCCP",
     options: [
-      "JavaScript puro",
-      "Uma biblioteca JavaScript",
-      "Um framework JavaScript",
-      "Um compilador de JavaScript",
+      "Corinthians",
+      "Palmeiras",
+      "Santos",
+      "Flamengo",
     ],
-    answer: "JavaScript puro",
+    answer: "Corinthians",
   },
   {
-    question: "Com qual instrução declaramos uma constante em JavaScript?",
-    options: ["const", "let", "var", "define"],
-    answer: "const",
+    question: "Qual time foi campeão Brasileiro em 2018",
+    options: ["Corinthians", "Atlético Mineiro", "Palmeiras", "São Paulo"],
+    answer: "Palmeiras",
   },
   {
-    question: "Qual dos tipos de dado a seguir não existe em JavaScript?",
-    options: ["string", "number", "boolean", "float"],
-    answer: "float",
+    question: "Qual time abaixo revelou Neymar Jr. dos Santos",
+    options: ["Palmeiras", "Juventude", "Santos", "Flamengo"],
+    answer: "Santos",
   },
   {
-    question: "Qual dos métodos a seguir seleciona um elemento?",
-    options: ["querySelector", "parseInt", "sort", "reduce"],
-    answer: "querySelector",
+    question: "Qual time foi vice campeão da libertadores de 2019",
+    options: ["Flamengo", "Santos", "River Plate", "Grêmio"],
+    answer: "River Plate",
   },
   {
     question:
-      "Qual destas propriedades da a quantidade de elementos de um array?",
-    options: ["qty", "length", "items", "index"],
-    answer: "length",
+      "Qual jogador a ganhar o prêmio Ballon'Dor em 2017",
+    options: ["Arjen Robben", "Cristiano Ronaldo", "Robert Lewandowski", "Lionel Messi"],
+    answer: "Cristiano Ronaldo",
   },
 ];
 
